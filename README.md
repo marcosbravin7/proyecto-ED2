@@ -1,3 +1,3 @@
-Primer línea en el repositorio para electrónica digital II \n
-Segunda linea \n
+Primer línea en el repositorio para electrónica digital II 
+Segunda linea 
 Tercera linea
